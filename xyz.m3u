@@ -27,16 +27,14 @@
 
 
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MALAYSIA",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
@@ -65,10 +63,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="MALAYSIA",TV7
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
-#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="MALAYSIA",DidikTV KPM (A)
-#http://51.79.82.208:16004
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="MALAYSIA",DidikTV KPM (B)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -86,13 +81,7 @@ https://aqfadtv.xyz/live/8tv/index.mpd
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9
 https://aqfadtv.xyz/live/tv9/index.mpd
 
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9 (A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7836ea26a6954661124ee9536a9eb710:e51bbff4595c2736122548c165bfce31
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9 (B)
-#http://51.79.82.208:16006
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
